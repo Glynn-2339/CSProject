@@ -10,7 +10,8 @@ Minte is a cross-platform mobile social payment system that allows for group pay
 
 
 
-## split
+## split #Minte: A mobile group payment system that allows several people to make joint payment for one or more products.
+
 
 A new Flutter project.
 
