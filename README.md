@@ -2,15 +2,17 @@
 
 Minte is a cross-platform mobile social payment system that allows for group payment with a focus on the Kenyan market. The system allows for more than one person to pay for a single product. It can be used in places such as hotels or hotels and Airbnb where a group of friends or colleagues can make equal contributions during the payment. It is focused on the Kenyan market which has historically been dominated by mpesa and airtel money; and with mpesa controlling a larger portion of the market mainly due to being backed by safaricom, airtel users have always been at a disadvantage when it comes to payment as their payment system is not widely adopted. Minte will help deal with this issue by adopting both mpesa and airtel money in its payment model and give users as easier time making group payments. The system will also make a contribution to the tech sector of the country.  
 
-## Getting Started
+## Programming Languages and Frameworks used 
 
-This project is a starting point for a Flutter application.
+This project was mainly written in Dart programming language using the flutter Frame work on the visual studio code editor. These two were the language and framework of choice due  to several reasons some of them being:
 
-A few resources to get you started if this is your first Flutter project:
+-Dart is any easy programming language to pick up
+-Flutter is also easy to pick up and use
+-They are known for their ability to build good and visually appealing web apps and applications with ease.
+-They are resource friendly and do not consume alot of computer resources.
+-They are open source which means alot of people have access to them and can contribute to maintaining them hence reducing their faults.
+-They have seen alot of public support meaning they might be around for long.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
