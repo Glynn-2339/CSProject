@@ -4,7 +4,7 @@
 //
 // Modifications to this file should be done in a copy under a different name
 // as this file may be regenerated.
-
+// links to bring in various functionalities 
 package io.flutter.app;
 
 import android.app.Application;
