@@ -6,12 +6,12 @@ Minte is a cross-platform mobile social payment system that allows for group pay
 
 This project was mainly written in Dart programming language using the flutter Frame work on the visual studio code editor. These two were the language and framework of choice due  to several reasons some of them being:
 
--Dart is any easy programming language to pick up
--Flutter is also easy to pick up and use
--They are known for their ability to build good and visually appealing web apps and applications with ease.
--They are resource friendly and do not consume alot of computer resources.
--They are open source which means alot of people have access to them and can contribute to maintaining them hence reducing their faults.
--They have seen alot of public support meaning they might be around for long.
+- Dart is any easy programming language to pick up
+- Flutter is also easy to pick up and use
+- They are known for their ability to build good and visually appealing web apps and applications with ease.
+- They are resource friendly and do not consume alot of computer resources.
+- They are open source which means alot of people have access to them and can contribute to maintaining them hence reducing their faults.
+- They have seen alot of public support meaning they might be around for long.
 
 
 
