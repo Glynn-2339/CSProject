@@ -1,6 +1,6 @@
 # Split
 
-The Bill Splitting App is a simple application for managing bills and users in a bill splitting scenario. It provides APIs to create, retrieve, update, and delete bills and users, allowing you to easily keep track of shared expenses.
+Split is a simple application for managing bills and users in a scenario where the users want to share the costs evenly amongst themselves and split the bill. It provides APIs to create, retrieve, update, and delete bills and users, allowing you to easily keep track of shared expenses.
 
 ## Features
 
