@@ -1,4 +1,4 @@
-# Minte: A mobile group payment system that allows several people to make joint payment for one or more products.
+# Split: A mobile group payment system that allows several people to make joint payment for one or more products.
 
 Minte is a cross-platform mobile social payment system that allows for group payment with a focus on the Kenyan market. The system allows for more than one person to pay for a single product. It can be used in places such as hotels or hotels and Airbnb where a group of friends or colleagues can make equal contributions during the payment. It is focused on the Kenyan market which has historically been dominated by mpesa and airtel money; and with mpesa controlling a larger portion of the market mainly due to being backed by safaricom, airtel users have always been at a disadvantage when it comes to payment as their payment system is not widely adopted. Minte will help deal with this issue by adopting both mpesa and airtel money in its payment model and give users as easier time making group payments. The system will also make a contribution to the tech sector of the country.  
 
